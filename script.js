@@ -1,1 +1,1 @@
-console.log('script file directory')
+console.log('script file directory - clone working')

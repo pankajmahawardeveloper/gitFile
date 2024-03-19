@@ -1,1 +1,1 @@
-console.log('index file directory')
+console.log('index file directory - clone working')
